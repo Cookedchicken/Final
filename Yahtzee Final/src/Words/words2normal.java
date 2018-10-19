@@ -262,16 +262,7 @@ public class words2normal {
 				}
 		}
 		
-<<<<<<< HEAD
-		String Arachnophobia = "The fear of spiders";
-		String Archipelago = "A group of islands";
-		String Glacier = "A mountian of ice";
-		String Normies = "Degenarates";
-		String Xenophobia = "A dislkie of people froms other countries";
-		String Narcissism = "Loving  yourself above all others";
-		String Tertiphobia = "Fear of the number 4";
-=======
->>>>>>> 9442d25afc76c7c1389c5b47685b64b5d46ad0fe
+
 	}
 
 }
